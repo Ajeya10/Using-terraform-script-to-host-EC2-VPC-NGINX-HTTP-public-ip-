@@ -74,7 +74,7 @@ terraform destroy -auto-approve
 
 ## Author
 *Your Name*  
-GitHub: [your-username](https://github.com/Ajeya10)
+GitHub: [Ajeya10](https://github.com/Ajeya10)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
